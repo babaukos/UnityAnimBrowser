@@ -14,9 +14,9 @@ Simply add the script files to your Unity project's Assets folder.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 1](/screenshot_1.png)
+![Screenshot 2](/screenshot_2.png)
+![Screenshot 3](/screenshot_3.png)
 
 ## Known Issues
 
