@@ -2,6 +2,16 @@
 
 Animation Browser is an extension for Unity Editor that allows easy browsing, renaming, and deleting of animation clips right from the Unity Editor interface.
 
+## Purpose
+
+This plugin was created to streamline the workflow when working with projects containing numerous animation files spread across various folders. It aims to simplify tasks such as adding specific animations to an animator controller or managing animation assets more efficiently.
+
+## Features
+
+- Animation search functionality.
+- Sorting animations by name, size, and directory.
+With Animation Browser, navigating through animation assets becomes more intuitive, enhancing productivity and organization within Unity projects.
+
 ## Installation
 
 Simply add the script files to your Unity project's Assets folder.
