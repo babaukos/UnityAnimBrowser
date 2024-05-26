@@ -14,11 +14,12 @@ Simply add the script files to your Unity project's Assets folder.
 
 ## Screenshots
 <details>
-<summary>Натисніть, щоб побачити скріншоти</summary>
-![Screenshot 1](/screenshot_1.png)
-  </details>
-![Screenshot 2](/screenshot_2.png)
-![Screenshot 3](/screenshot_3.png)
+<summary>Click to view screenshots</summary>
+
+![Screenshot 1](screenshot_1.png)
+![Screenshot 2](screenshot_2.png)
+![Screenshot 3](screenshot_3.png)
+
 </details>
 
 ## Known Issues
