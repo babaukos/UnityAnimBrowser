@@ -13,10 +13,12 @@ Simply add the script files to your Unity project's Assets folder.
 3. The context menu allows you to perform actions on the animations, such as playback, renaming, and deletion.
 
 ## Screenshots
-
+<details>
+<summary>Натисніть, щоб побачити скріншоти</summary>
 ![Screenshot 1](/screenshot_1.png)
 ![Screenshot 2](/screenshot_2.png)
 ![Screenshot 3](/screenshot_3.png)
+</details>
 
 ## Known Issues
 
