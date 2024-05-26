@@ -16,6 +16,7 @@ Simply add the script files to your Unity project's Assets folder.
 <details>
 <summary>Натисніть, щоб побачити скріншоти</summary>
 ![Screenshot 1](/screenshot_1.png)
+  </details>
 ![Screenshot 2](/screenshot_2.png)
 ![Screenshot 3](/screenshot_3.png)
 </details>
